@@ -1,0 +1,25 @@
+{
+  "name": "testproduct",
+  "version": "1.0.0",
+  "description": "brief one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumaxbrian/node_free_code.git"
+  },
+  "keywords": [
+    "house"
+  ],
+  "author": "brian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jumaxbrian/node_free_code/issues"
+  },
+  "homepage": "https://github.com/jumaxbrian/node_free_code#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
